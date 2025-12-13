@@ -17,6 +17,7 @@ export default function ProfilePage() {
       <Card className="w-full max-w-md shadow-md rounded-md px-4 py-6 ">
         <CardHeader>
           <CardTitle>Profile</CardTitle>
+          <CardDescription>&ldquo;this is a mock data&rdquo;</CardDescription>
         </CardHeader>
         <CardContent>
           <div className="flex items-center space-x-4 justify-space-between">
